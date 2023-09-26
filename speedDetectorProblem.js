@@ -7,7 +7,7 @@ function speedDetector(speed) {
     }
   }
     
-  console.log(speedDetector(100));
+  console.log(speedDetector(speed));
 
 
 

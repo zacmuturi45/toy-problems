@@ -11,5 +11,5 @@ function toyProblem(rawScore) {
     return "A";
 }
 }
-console.log(toyProblem(67));
+console.log(toyProblem(rawScore));
 
