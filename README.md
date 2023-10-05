@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm ISAAC WAMBUI</h1>
-<h3 align="center">A BUDDING SOFTWARE DEVELOPER WHO STILL DOESN'T KNOW WHAT RAZZLES ARE!</h3>
+<h1>TOY PROBLEMS</h1>
+<h2>Hi, my name is Isaac Wambui.</h2>
+<p>Welcome to my page. I am a budding fullstack software developer currently taking HTML, CSS, JAVASCRIPT, PYTHON/REACT. Below is a small project titled "Toy Problems" consisting of three problems that I solved using JavaScript.</p>
+<h2>HOW IT WORKS</h2>
+<h3>STUDENT GRADE GENERATOR</h3>
+<p>In this problem we are presented a range of numerical values to use to determine grades that fall in a specific range and consequently print out an attained grade. <br> The function provided takes the raw score as an argument which is passed through a logical statement that uses if else if statements to determine, with the range provided, the grade value of the raw score.</p>
+<h3>SPEED DETECTOR PROBLEM</h3>
+<p>As the name implies, this problem charts a course of action based on input derived from vehicle speeds. The function takes speed values as the argument and passes them through the parameters provided. In this case if the speed is less than 70km/h, the function returns an "Ok" string. If the speed is more than 70km/h, for every 5km/h increment, the user attains a point which, if surpasses 12 points, gets a "License suspended" message, otherwise if 12 or less than 12 points, the points are returned. </p>
 
-- I'M CURRENTLY WORKING ON **A SPEED DETECTOR APPLICATION AND A STUDENT GRADE GENERATOR.**
+<h3>NET SALARY CALCULATOR</h3>
+<p>The Net Salary Calculator is an app which gets the user's basic salary and benefits as arguments and outputs their Net pay. The function uses NSSF, NHIF and PAYE data from the relevant government portals to determine the deduction amounts based on the gross salary range. The user only needs to input their basic salary and benefits and will get back their calculated Net Pay.</p>
 
-- I'M CURRENTLY LEARNING **JAVASCRIPT AND THE UNAVOIDABLE PAIR, HTML5 & CSS.**
-
-- 📫 YOU CAN CATCH ME AT **isaacwambui.student@moringaschool.com**
-
-- FUN FACT **WHEN I CODE I NEVER GET HUNGRY. MUST BE THE FREE COOKIES!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isaacwambui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaacwambui" height="30" width="40" /></a>
-<a href="https://fb.com/sonotacoolperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonotacoolperson" height="30" width="40" /></a>
-<a href="https://instagram.com/idontgrambutieatgramsiftheyaregreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idontgrambutieatgramsiftheyaregreen" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zacmuturi45"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zacmuturi45" /></a><a href="https://ko-fi.com/zacmuturi45"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zacmuturi45" /></a></p><br><br>
+https://img.shields.io/github/license/https%3A%2F%2Fgithub.com%2Fzacmuturi45/https%3A%2F%2Fgithub.com%2Fzacmuturi45%2Ftoy-problems%2Fedit%2Fmain%2FREADME.md
