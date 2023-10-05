@@ -1,6 +1,9 @@
 function netSalaryCalculator(basicSalary, mpangoWaKandoAllowance, leavePay) {
     const grossSalary = basicSalary+mpangoWaKandoAllowance+leavePay;
     let nhif;
+    // This is a simple Salary Calculator that takes the user's basic salary and benefits as arguments.
+    //The arguments are passed through the netSalaryCalculator() function which utilizes NHIF,NSSF and PAYE government data to determine the deduction amounts.
+    //The function uses a switch statement and logical operators to match the gross salary to its suitable deduction band and finally outputs the Net Salary after deductions.    
   
     switch(true) {
         case grossSalary > 0 && grossSalary <= 5999:
@@ -88,6 +91,7 @@ function netSalaryCalculator(basicSalary, mpangoWaKandoAllowance, leavePay) {
   
         return netPay;
   }
+  
   console.log(netSalaryCalculator(basicSalary, mpangoWaKandoAllowance, leavePay));
   
   

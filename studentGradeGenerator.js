@@ -1,3 +1,5 @@
+//This simple grade generator uses the logical operators to obtain boolean values from  to convert raw numerical values to grades!
+
 function toyProblem(rawScore) {
     if (rawScore >= 0 && rawScore < 40 === true) {
         return "E-";
@@ -11,5 +13,6 @@ function toyProblem(rawScore) {
     return "A";
 }
 }
-console.log(toyProblem(rawScore));
+//To call the toyProblem function please input number values in the parentheses.
+console.log(toyProblem(86));
 
